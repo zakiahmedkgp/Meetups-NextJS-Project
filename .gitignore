@@ -1,4 +1,5 @@
 #avoid node modukes
 node_modules/
 
-
+#avoid build folder
+.next/
